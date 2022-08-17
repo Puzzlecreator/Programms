@@ -9,31 +9,31 @@ public class NewClass1 {
 	{
 		
 		int dita;
-		System.out.println("jep numrin e dites");
+		System.out.println("Enter a number of the day");
 		Scanner in= new Scanner(System.in);
 		dita=in.nextInt();
 		switch (dita)
 		{
 			case 1:
-			System.out.println("e hene");
+			System.out.println("Monday");
 			break;
 			case 2:
-			System.out.println("e marte");
+			System.out.println("Tuesday);
 			break;
 			case 3:
-			System.out.println("e merkure");
+			System.out.println("Wednesday");
 			break;
 			case 4:
-			System.out.println("e enjte");
+			System.out.println("Thursday");
 			break;
 			case 5:
-			System.out.println("e premte");
+			System.out.println("Friday");
 			break;
 			case 6:
-			System.out.println("e shtune");
+			System.out.println("Saturday");
 			break;
 			case 7:
-			System.out.println("e diel");
+			System.out.println("Sunday");
 			break;
 		}
 		
