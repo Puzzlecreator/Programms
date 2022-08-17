@@ -10,7 +10,7 @@ import javax.swing.*;
 public class NewClass implements ActionListener{
     
 	JFrame f=new JFrame ();
-        Label l8 = new Label("\t\t\t\t\tCmimi te vendoset ne te reja\t");
+        Label l8 = new Label("\t\t\t\t\tEnter wage\t");
 	Label l1=new Label("Bruto ");
 	TextField m=new TextField("",27);
     Label l2=new Label("Taxes");
