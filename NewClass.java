@@ -11,21 +11,21 @@ public class NewClass implements ActionListener{
     
 	JFrame f=new JFrame ();
         Label l8 = new Label("\t\t\t\t\tCmimi te vendoset ne te reja\t");
-	Label l1=new Label("paga bruto");
+	Label l1=new Label("Bruto ");
 	TextField m=new TextField("",27);
-    Label l2=new Label("tatimi mbi te ardhurat");
+    Label l2=new Label("Taxes");
     TextField q=new TextField("",20);
-    Label l3=new Label("paga per llogaritjen e k.she");
+    Label l3=new Label("Wage insurance");
 	TextField g=new TextField("",20);
-	Label l4=new Label("paga per llogaritjen e k.shq");
+	Label l4=new Label("Wage policy");
     TextField u=new TextField("",20);
-    Label l5=new Label("paga per llogaritjen e k.she e punedhenesit ");
+    Label l5=new Label("Wage for employer ");
     TextField w=new TextField("",20);
-    Label l6=new Label ("paga per llogaritjen e k.shq e punedhenesit");
+    Label l6=new Label ("Wage of employer");
     TextField v=new TextField("",27);
-    Label l7=new Label("\npaga neto");
+    Label l7=new Label("\nNeto");
     TextField z=new TextField("",29);
-    Button ok=new Button("\nllogarit");
+    Button ok=new Button("\nConvert");
     FlowLayout org=new FlowLayout ();
     public NewClass (){
         
