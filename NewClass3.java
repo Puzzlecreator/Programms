@@ -8,15 +8,15 @@ import javax.swing.*;
 
 public class NewClass3  implements ActionListener{
     Frame f=new Frame();
-	Label l1=new Label("Mosha");
+	Label l1=new Label("Age");
 	TextField m=new TextField("",25);
-	Label l2=new Label("Gjatesia me cm!!!");
+	Label l2=new Label("Height in cm!!!");
 	TextField g=new TextField("",25);
-	Label l3=new Label("Gjinia");
+	Label l3=new Label("Sex");
 	TextField j=new TextField("",25);
-	Button ok=new Button("Hyrje");
+	Button ok=new Button("Total");
 	FlowLayout org=new FlowLayout();
-	Label l4=new Label("Pesha");
+	Label l4=new Label("Weight");
 	TextField q=new TextField(" ",25);
 	public NewClass3(){
     
