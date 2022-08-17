@@ -18,7 +18,7 @@ public class NewClass1 {
 			System.out.println("Monday");
 			break;
 			case 2:
-			System.out.println("Tuesday);
+			System.out.println("Tuesday");
 			break;
 			case 3:
 			System.out.println("Wednesday");
