@@ -7,13 +7,13 @@ import javax.swing.*;
 
 public class NewClass4 implements ActionListener {
    Frame f=new Frame ();
-	Label l2=new Label("shqip");
+	Label l2=new Label("Albanian");
 	TextField g=new TextField("",10);
-	Label l1=new Label("anglisht");
+	Label l1=new Label("English");
 	TextField m=new TextField("",10);
-	Label l3=new Label("italisht");
+	Label l3=new Label("Italian");
     TextField u=new TextField("",10);
-	Button ok=new Button("perkthe");
+	Button ok=new Button("Translate");
 	FlowLayout org=new FlowLayout();	
 	public  NewClass4(){
             
