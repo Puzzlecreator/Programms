@@ -12,7 +12,7 @@ public class NewClass3  implements ActionListener{
 	TextField m=new TextField("",25);
 	Label l2=new Label("Height in cm!!!");
 	TextField g=new TextField("",25);
-	Label l3=new Label("Sex");
+	Label l3=new Label("Gender");
 	TextField j=new TextField("",25);
 	Button ok=new Button("Total");
 	FlowLayout org=new FlowLayout();
