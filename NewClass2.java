@@ -13,13 +13,13 @@ public class NewClass2 implements ActionListener{
     
     Frame f=new Frame();
     
-	Label l1=new Label("Emri i punetorit");
+	Label l1=new Label("Name of employee");
 	TextField m=new TextField("",25);
-	Label l2=new Label("Pagesa per ore");
+	Label l2=new Label("Pay per hour");
 	TextField g=new TextField("",25);
-	Label l3=new Label("Numerimi i oreve");
+	Label l3=new Label("Number of hours");
 	TextField j=new TextField("",25);
-	Button ok=new Button("Totali");
+	Button ok=new Button("Total");
 	FlowLayout org=new FlowLayout();
 	//Label l5=new Label("Totali");
 	TextField q=new TextField("",25);
